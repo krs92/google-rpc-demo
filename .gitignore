@@ -1,0 +1,8 @@
+#Folders
+node_modules/
+.idea/
+# files
+*.log
+*.db
+*.DS_Store
+coverage
